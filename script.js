@@ -1,5 +1,5 @@
 // initialize
-const apiKey = "7eUsDrlU1pU8dtRZm0p9ZX2gjhbbtasBQBhEoZ4M1N1kndov0ltIJOx5";
+const apiKey = 7eUsDrlU1pU8dtRZm0p9ZX2gjhbbtasBQBhEoZ4M1N1kndov0ltIJOx5;
 let page_num = 1;
 
 // curation generation
